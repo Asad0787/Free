@@ -11,9 +11,8 @@ python run.py
 ```
 
 ```base
-status free
-Token Ganrate
-Convo loder
+ONLY FEEDBACK 
+TOKEN GANRATE USE CONVO & POST RUN
 ```
 
 
